@@ -24,6 +24,9 @@ Note: ASTRAL was run on command line. The ASTRAL output is a newick file contain
 java -jar astral.4.10.12.jar -i inputfile -o outputfile 2> logfile
 
 Note: ecceTERA was run on command line. Two sets of costs were used for (Dupliaction, HGT, Loss). The costs used were (2,3,1), which was the prescribed default and (2,1,2). The latter choice of cost was to reduce the cost HGT as compared to Duplication and Loss, thus increasing the probability of transfer/introgression. The following command was used:
+
+######
+
 ./ecceTERA_linux64 species.file=raxML-orig_nucl.tre gene.file=PycharmProjects/Salmons/DATA/recondata/raxML-mus/Mito/RAxML_bestTree.ATP8_m dupli.cost=2 HGT.cost=1 loss.cost=2 dated=0 print.reconciliations=1 sylvx.reconciliation=true
 
 
