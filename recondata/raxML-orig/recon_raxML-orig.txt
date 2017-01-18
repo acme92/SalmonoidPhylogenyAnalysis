@@ -1,0 +1,19 @@
+Reconciliation cost of mitochondrial genes with nuclear supertree:
+Gene		2-3-1	2-1-2
+12S		28	12
+16S		34	16
+ATP6		42	18
+ATP8		24	10
+CO1		56	22
+CO2		16	10
+CO3		17	09
+Cytb		53	21
+mtDNA_tRNA	56	21
+ND1		
+ND2		19	10
+ND3		27	12
+ND4		16	10
+ND4L		22	09
+ND5		23	11
+ND6		22	10
+

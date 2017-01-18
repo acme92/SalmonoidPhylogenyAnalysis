@@ -1,0 +1,238 @@
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 4.10.12
+Gene trees are treated as unrooted
+33 trees read from best_ml
+All output trees will be *arbitrarily* rooted at SmtruAT53
+
+======== Running the main analysis
+Number of taxa: 107 (107 species)
+Taxa: [SmtruAT53, Smsalar51, Smobtus86, Svfont261, OMykis49n, Tthyma177, Acohri118, Prwilli42, Svmalma82, Svalpin63, OKeta96nn, OGorbu94n, OClarki47, OMasou99n, ONerka101, OKisut272, OTshaw106, Clavar221, Paperry46, Blenok161, Blenok158, Bsavin164, Bsavin162, Htaime122, Htaime156, Hhucho119, Svalpin64, Svalpin73, Svalbus65, Svbogan70, Svelgyt71, Svconfl75, Svmalma81, Svconfl76, Svsveto67, Svleuco80, Svleuco79, Svnamay84, Svnama232, Svfonti77, Tthyma178, Tarctic87, Tarcti172, Tbrevi175, Tbrevi174, Tbaica170, Tgrubi169, Tgrubi167, Chuntsm12, Stleuci44, Clauret16, Clauret15, Ckiyi13nn, Cartedi5n, Cartedi6n, Cnigri184, Choyi9nnn, Czeneth30, Choyi10nn, Cautumna4, Cpollan24, Cautum143, Cmuksu131, Cpidsch17, Cclupeaf7, Ctugun28n, Cussu339n, Cclupeaf8, Cmigra252, Cpeled139, Calbul135, Calbula1n, Csardin25, Csardin26, Cnasus20n, Cnasus19n, Prcoult34, Prcoul186, Prcylin36, Prcylin35, Prwilli41, Prspilo39, Prspilo40, Prgemmi37, Prgemmi38, Prabyss32, OClarki48, OApach107, OGilae259, OMykis112, OChrys110, OMykis223, OMasou100, ORhodu103, OKisut98n, OTshaw280, OKeta95nn, OGorbu194, ONerka102, Smsalar52, SmtruDA56, Smplat126, SmtrAD334, Smobtus85, SmtruMA59, SmtruME57, Acohri117]
+Taxon occupancy: {Tthyma177=14, Tthyma178=2, OMykis112=2, OClarki47=22, OClarki48=2, Hhucho119=11, Svelgyt71=2, Svalbus65=3, Svfonti77=2, Prcoul186=3, Htaime122=10, Cpollan24=3, OMasou100=2, OKisut272=28, OMykis223=2, SmtruDA56=2, Cclupeaf8=2, Prabyss32=2, Cclupeaf7=10, OGorbu94n=24, Cmuksu131=2, Prcoult34=2, Paperry46=11, OTshaw106=25, SmtruMA59=2, SmtruME57=2, Svalpin63=30, Svalpin64=2, Ctugun28n=2, OApach107=2, ORhodu103=4, OGilae259=3, Smplat126=3, Calbul135=2, Cautum143=2, Smobtus85=2, Smobtus86=4, Ckiyi13nn=3, Prspilo39=2, OKeta95nn=2, Cnigri184=3, OChrys110=2, Tgrubi167=4, Tgrubi169=2, Svconfl75=9, Clauret16=2, Clavar221=19, Clauret15=2, Svconfl76=2, Svsveto67=2, OGorbu194=2, Choyi9nnn=2, Cnasus20n=2, Cussu339n=3, OKisut98n=2, Tbaica170=5, Svleuco80=10, OTshaw280=2, Smsalar52=2, OMykis49n=31, Smsalar51=32, Svleuco79=2, Cartedi6n=2, Bsavin164=2, OKeta96nn=21, Bsavin162=5, Tarctic87=13, Prspilo40=2, Choyi10nn=4, Calbula1n=6, Tbrevi174=2, Tbrevi175=4, Svmalma81=2, Cpeled139=5, Svmalma82=12, Cartedi5n=11, Stleuci44=3, Tarcti172=2, Svfont261=24, ONerka101=26, Chuntsm12=2, Prgemmi38=2, ONerka102=2, Prgemmi37=2, OMasou99n=23, Czeneth30=4, Cnasus19n=2, Cautumna4=5, SmtrAD334=2, Prwilli42=8, Prwilli41=2, Prcylin36=2, Cpidsch17=3, Prcylin35=2, Svnama232=2, Svalpin73=2, Blenok161=2, Csardin26=3, Csardin25=2, Acohri118=9, Acohri117=2, SmtruAT53=20, Cmigra252=4, Svnamay84=9, Htaime156=2, Svbogan70=2, Blenok158=15}
+Number of gene trees: 33
+31 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Will attempt to complete bipartitions from X before adding using a distance matrix.
+Building set of clusters (X) from gene trees 
+Number of Default Clusters: 825
+calculating extra bipartitions to be added at level 1 ...
+Number of Clusters after addition by distance: 829
+Adding to X using resolutions of greedy consensus ...
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+Threshold 0.3333333333333333:
+polytomy of size 3; rounds with additions with at least 0.01 support: 0; clusters: 829
+Number of Clusters after addition by greedy: 829
+partitions formed in 2.864 secs
+Dynamic Programming starting after 2.864 secs
+Using tree-based weight calculation.
+Number of quartet trees in the gene trees: 10513087
+Size of largest cluster: 107
+Total Number of elements weighted: 679
+Normalized score (portion of input quartet trees satisfied): 0.9398634292667796
+Final optimization score: 9880866
+Optimal tree inferred in 3.15 secs.
+(Svfonti77,(Svfont261,(((Svnamay84,Svnama232),((Svleuco80,Svleuco79),(Svsveto67,(((Svbogan70,Svelgyt71),(Svconfl76,(Svconfl75,Svmalma81))),((Svmalma82,Svalbus65),(Svalpin73,(Svalpin63,Svalpin64))))))),(((ORhodu103,(OMasou99n,OMasou100)),(((ONerka101,ONerka102),((OGorbu94n,OGorbu194),(OKeta96nn,OKeta95nn))),(((OTshaw106,OTshaw280),(OKisut272,OKisut98n)),((OClarki47,OClarki48),((OMykis49n,OMykis112),((OChrys110,OMykis223),(OApach107,OGilae259))))))),(Paperry46,(((Htaime156,(Htaime122,Hhucho119)),((Blenok161,Blenok158),(Bsavin164,Bsavin162))),(((Smsalar51,Smsalar52),((Smobtus86,(Acohri118,Acohri117)),(SmtruAT53,(SmtruME57,(SmtruDA56,(SmtruMA59,(Smobtus85,(Smplat126,SmtrAD334)))))))),((Tgrubi167,(Tgrubi169,((Tarctic87,(Tthyma177,Tthyma178)),(Tarcti172,(Tbaica170,(Tbrevi175,Tbrevi174)))))),(((Prcoult34,Prcoul186),((Prcylin36,Prcylin35),((Prwilli42,Prwilli41),((Prspilo39,Prspilo40),(Prabyss32,(Prgemmi37,Prgemmi38)))))),(Chuntsm12,(Stleuci44,(((Cpollan24,(Cautumna4,Cautum143)),((Clauret16,Clauret15),(Ckiyi13nn,(Cartedi5n,(Cartedi6n,(Choyi10nn,(Czeneth30,(Cnigri184,Choyi9nnn)))))))),((Ctugun28n,(Csardin26,((Calbul135,Calbula1n),(Cpeled139,Csardin25)))),(Cmigra252,((Cussu339n,(Cnasus20n,Cnasus19n)),((Cclupeaf7,Cclupeaf8),(Cmuksu131,(Clavar221,Cpidsch17))))))))))))))))));
+Quartet score is: 9880866
+Normalized quartet score is: 0.9398634292667796
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Smplat126, SmtrAD334}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Smplat126, SmtrAD334, Smobtus85}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Smplat126, SmtrAD334, Smobtus85, SmtruMA59}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{SmtruDA56, Smplat126, SmtrAD334, Smobtus85, SmtruMA59}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{SmtruDA56, Smplat126, SmtrAD334, Smobtus85, SmtruMA59, SmtruME57}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Acohri118, Acohri117}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 4:
+	{Smobtus86, Acohri118, Acohri117}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Smsalar51, Smsalar52}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Tthyma177, Tthyma178}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 4:
+	{Tthyma177, Tthyma178, Tarctic87}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Tbrevi175, Tbrevi174}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Tbrevi175, Tbrevi174, Tbaica170}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Tarcti172, Tbrevi175, Tbrevi174, Tbaica170}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Tthyma177, Tthyma178, Tarctic87, Tarcti172, Tbrevi175, Tbrevi174, Tbaica170}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Tthyma177, Tthyma178, Tarctic87, Tarcti172, Tbrevi175, Tbrevi174, Tbaica170, Tgrubi169}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 4:
+	{Tthyma177, Tthyma178, Tarctic87, Tarcti172, Tbrevi175, Tbrevi174, Tbaica170, Tgrubi169, Tgrubi167}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Prcoult34, Prcoul186}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Prcylin36, Prcylin35}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Prwilli42, Prwilli41}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Prspilo39, Prspilo40}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Prgemmi37, Prgemmi38}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Prgemmi37, Prgemmi38, Prabyss32}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Prspilo39, Prspilo40, Prgemmi37, Prgemmi38, Prabyss32}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Prwilli42, Prwilli41, Prspilo39, Prspilo40, Prgemmi37, Prgemmi38, Prabyss32}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Prwilli42, Prcylin36, Prcylin35, Prwilli41, Prspilo39, Prspilo40, Prgemmi37, Prgemmi38, Prabyss32}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 3:
+	{Prwilli42, Prcoult34, Prcoul186, Prcylin36, Prcylin35, Prwilli41, Prspilo39, Prspilo40, Prgemmi37, Prgemmi38, Prabyss32}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Cautumna4, Cautum143}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 3:
+	{Cautumna4, Cpollan24, Cautum143}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Clauret16, Clauret15}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Cnigri184, Choyi9nnn}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 3:
+	{Cnigri184, Choyi9nnn, Czeneth30}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Cnigri184, Choyi9nnn, Czeneth30, Choyi10nn}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Cartedi6n, Cnigri184, Choyi9nnn, Czeneth30, Choyi10nn}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 3:
+	{Cartedi5n, Cartedi6n, Cnigri184, Choyi9nnn, Czeneth30, Choyi10nn}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Ckiyi13nn, Cartedi5n, Cartedi6n, Cnigri184, Choyi9nnn, Czeneth30, Choyi10nn}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Clauret16, Clauret15, Ckiyi13nn, Cartedi5n, Cartedi6n, Cnigri184, Choyi9nnn, Czeneth30, Choyi10nn}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 4:
+	{Clauret16, Clauret15, Ckiyi13nn, Cartedi5n, Cartedi6n, Cnigri184, Choyi9nnn, Czeneth30, Choyi10nn, Cautumna4, Cpollan24, Cautum143}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Calbul135, Calbula1n}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Cpeled139, Csardin25}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Cpeled139, Calbul135, Calbula1n, Csardin25}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Cpeled139, Calbul135, Calbula1n, Csardin25, Csardin26}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Ctugun28n, Cpeled139, Calbul135, Calbula1n, Csardin25, Csardin26}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Cnasus20n, Cnasus19n}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Cussu339n, Cnasus20n, Cnasus19n}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Cclupeaf7, Cclupeaf8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Clavar221, Cpidsch17}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Clavar221, Cmuksu131, Cpidsch17}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Clavar221, Cmuksu131, Cpidsch17, Cclupeaf7, Cclupeaf8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Clavar221, Cmuksu131, Cpidsch17, Cclupeaf7, Cussu339n, Cclupeaf8, Cnasus20n, Cnasus19n}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 3:
+	{Clavar221, Cmuksu131, Cpidsch17, Cclupeaf7, Cussu339n, Cclupeaf8, Cmigra252, Cnasus20n, Cnasus19n}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 5:
+	{Clavar221, Cmuksu131, Cpidsch17, Cclupeaf7, Ctugun28n, Cussu339n, Cclupeaf8, Cmigra252, Cpeled139, Calbul135, Calbula1n, Csardin25, Csardin26, Cnasus20n, Cnasus19n}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 3:
+	{Clavar221, Clauret16, Clauret15, Ckiyi13nn, Cartedi5n, Cartedi6n, Cnigri184, Choyi9nnn, Czeneth30, Choyi10nn, Cautumna4, Cpollan24, Cautum143, Cmuksu131, Cpidsch17, Cclupeaf7, Ctugun28n, Cussu339n, Cclupeaf8, Cmigra252, Cpeled139, Calbul135, Calbula1n, Csardin25, Csardin26, Cnasus20n, Cnasus19n}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Clavar221, Stleuci44, Clauret16, Clauret15, Ckiyi13nn, Cartedi5n, Cartedi6n, Cnigri184, Choyi9nnn, Czeneth30, Choyi10nn, Cautumna4, Cpollan24, Cautum143, Cmuksu131, Cpidsch17, Cclupeaf7, Ctugun28n, Cussu339n, Cclupeaf8, Cmigra252, Cpeled139, Calbul135, Calbula1n, Csardin25, Csardin26, Cnasus20n, Cnasus19n}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Clavar221, Chuntsm12, Stleuci44, Clauret16, Clauret15, Ckiyi13nn, Cartedi5n, Cartedi6n, Cnigri184, Choyi9nnn, Czeneth30, Choyi10nn, Cautumna4, Cpollan24, Cautum143, Cmuksu131, Cpidsch17, Cclupeaf7, Ctugun28n, Cussu339n, Cclupeaf8, Cmigra252, Cpeled139, Calbul135, Calbula1n, Csardin25, Csardin26, Cnasus20n, Cnasus19n}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 6:
+	{Prwilli42, Clavar221, Chuntsm12, Stleuci44, Clauret16, Clauret15, Ckiyi13nn, Cartedi5n, Cartedi6n, Cnigri184, Choyi9nnn, Czeneth30, Choyi10nn, Cautumna4, Cpollan24, Cautum143, Cmuksu131, Cpidsch17, Cclupeaf7, Ctugun28n, Cussu339n, Cclupeaf8, Cmigra252, Cpeled139, Calbul135, Calbula1n, Csardin25, Csardin26, Cnasus20n, Cnasus19n, Prcoult34, Prcoul186, Prcylin36, Prcylin35, Prwilli41, Prspilo39, Prspilo40, Prgemmi37, Prgemmi38, Prabyss32}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{Tthyma177, Prwilli42, Clavar221, Tthyma178, Tarctic87, Tarcti172, Tbrevi175, Tbrevi174, Tbaica170, Tgrubi169, Tgrubi167, Chuntsm12, Stleuci44, Clauret16, Clauret15, Ckiyi13nn, Cartedi5n, Cartedi6n, Cnigri184, Choyi9nnn, Czeneth30, Choyi10nn, Cautumna4, Cpollan24, Cautum143, Cmuksu131, Cpidsch17, Cclupeaf7, Ctugun28n, Cussu339n, Cclupeaf8, Cmigra252, Cpeled139, Calbul135, Calbula1n, Csardin25, Csardin26, Cnasus20n, Cnasus19n, Prcoult34, Prcoul186, Prcylin36, Prcylin35, Prwilli41, Prspilo39, Prspilo40, Prgemmi37, Prgemmi38, Prabyss32}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Htaime122, Hhucho119}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Htaime122, Htaime156, Hhucho119}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Blenok161, Blenok158}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Bsavin164, Bsavin162}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 5:
+	{Blenok161, Blenok158, Bsavin164, Bsavin162}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 11:
+	{Blenok161, Blenok158, Bsavin164, Bsavin162, Htaime122, Htaime156, Hhucho119}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{OMasou99n, OMasou100}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 4:
+	{OMasou99n, OMasou100, ORhodu103}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{ONerka101, ONerka102}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{OGorbu94n, OGorbu194}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{OKeta96nn, OKeta95nn}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 18:
+	{OKeta96nn, OGorbu94n, OKeta95nn, OGorbu194}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{OTshaw106, OTshaw280}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{OKisut272, OKisut98n}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{OClarki47, OClarki48}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{OMykis49n, OMykis112}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{OChrys110, OMykis223}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{OApach107, OGilae259}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{OApach107, OGilae259, OChrys110, OMykis223}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{OMykis49n, OApach107, OGilae259, OMykis112, OChrys110, OMykis223}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Svnamay84, Svnama232}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Svleuco80, Svleuco79}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Svbogan70, Svelgyt71}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Svconfl75, Svmalma81}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Svconfl75, Svmalma81, Svconfl76}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Svbogan70, Svelgyt71, Svconfl75, Svmalma81, Svconfl76}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 3:
+	{Svmalma82, Svalbus65}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Svalpin63, Svalpin64}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Svalpin63, Svalpin64, Svalpin73}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 9:
+	{Svmalma82, Svalpin63, Svalpin64, Svalpin73, Svalbus65}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Svmalma82, Svalpin63, Svalpin64, Svalpin73, Svalbus65, Svbogan70, Svelgyt71, Svconfl75, Svmalma81, Svconfl76}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Svmalma82, Svalpin63, Svalpin64, Svalpin73, Svalbus65, Svbogan70, Svelgyt71, Svconfl75, Svmalma81, Svconfl76, Svsveto67}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 8:
+	{Svmalma82, Svalpin63, Svalpin64, Svalpin73, Svalbus65, Svbogan70, Svelgyt71, Svconfl75, Svmalma81, Svconfl76, Svsveto67, Svleuco80, Svleuco79}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 9:
+	{Svmalma82, Svalpin63, Svalpin64, Svalpin73, Svalbus65, Svbogan70, Svelgyt71, Svconfl75, Svmalma81, Svconfl76, Svsveto67, Svleuco80, Svleuco79, Svnamay84, Svnama232}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 2:
+	{Svfont261, Svfonti77}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 11:
+	{Svfont261, OMykis49n, Svmalma82, Svalpin63, OKeta96nn, OGorbu94n, OClarki47, OMasou99n, ONerka101, OKisut272, OTshaw106, Svalpin64, Svalpin73, Svalbus65, Svbogan70, Svelgyt71, Svconfl75, Svmalma81, Svconfl76, Svsveto67, Svleuco80, Svleuco79, Svnamay84, Svnama232, Svfonti77, OClarki48, OApach107, OGilae259, OMykis112, OChrys110, OMykis223, OMasou100, ORhodu103, OKisut98n, OTshaw280, OKeta95nn, OGorbu194, ONerka102}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 11:
+	{Svfont261, OMykis49n, Svmalma82, Svalpin63, OKeta96nn, OGorbu94n, OClarki47, OMasou99n, ONerka101, OKisut272, OTshaw106, Paperry46, Svalpin64, Svalpin73, Svalbus65, Svbogan70, Svelgyt71, Svconfl75, Svmalma81, Svconfl76, Svsveto67, Svleuco80, Svleuco79, Svnamay84, Svnama232, Svfonti77, OClarki48, OApach107, OGilae259, OMykis112, OChrys110, OMykis223, OMasou100, ORhodu103, OKisut98n, OTshaw280, OKeta95nn, OGorbu194, ONerka102}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{Svfont261, OMykis49n, Svmalma82, Svalpin63, OKeta96nn, OGorbu94n, OClarki47, OMasou99n, ONerka101, OKisut272, OTshaw106, Paperry46, Blenok161, Blenok158, Bsavin164, Bsavin162, Htaime122, Htaime156, Hhucho119, Svalpin64, Svalpin73, Svalbus65, Svbogan70, Svelgyt71, Svconfl75, Svmalma81, Svconfl76, Svsveto67, Svleuco80, Svleuco79, Svnamay84, Svnama232, Svfonti77, OClarki48, OApach107, OGilae259, OMykis112, OChrys110, OMykis223, OMasou100, ORhodu103, OKisut98n, OTshaw280, OKeta95nn, OGorbu194, ONerka102}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 17:
+	{Svfont261, OMykis49n, Tthyma177, Prwilli42, Svmalma82, Svalpin63, OKeta96nn, OGorbu94n, OClarki47, OMasou99n, ONerka101, OKisut272, OTshaw106, Clavar221, Paperry46, Blenok161, Blenok158, Bsavin164, Bsavin162, Htaime122, Htaime156, Hhucho119, Svalpin64, Svalpin73, Svalbus65, Svbogan70, Svelgyt71, Svconfl75, Svmalma81, Svconfl76, Svsveto67, Svleuco80, Svleuco79, Svnamay84, Svnama232, Svfonti77, Tthyma178, Tarctic87, Tarcti172, Tbrevi175, Tbrevi174, Tbaica170, Tgrubi169, Tgrubi167, Chuntsm12, Stleuci44, Clauret16, Clauret15, Ckiyi13nn, Cartedi5n, Cartedi6n, Cnigri184, Choyi9nnn, Czeneth30, Choyi10nn, Cautumna4, Cpollan24, Cautum143, Cmuksu131, Cpidsch17, Cclupeaf7, Ctugun28n, Cussu339n, Cclupeaf8, Cmigra252, Cpeled139, Calbul135, Calbula1n, Csardin25, Csardin26, Cnasus20n, Cnasus19n, Prcoult34, Prcoul186, Prcylin36, Prcylin35, Prwilli41, Prspilo39, Prspilo40, Prgemmi37, Prgemmi38, Prabyss32, OClarki48, OApach107, OGilae259, OMykis112, OChrys110, OMykis223, OMasou100, ORhodu103, OKisut98n, OTshaw280, OKeta95nn, OGorbu194, ONerka102}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 9:
+	{Smsalar51, Svfont261, OMykis49n, Tthyma177, Prwilli42, Svmalma82, Svalpin63, OKeta96nn, OGorbu94n, OClarki47, OMasou99n, ONerka101, OKisut272, OTshaw106, Clavar221, Paperry46, Blenok161, Blenok158, Bsavin164, Bsavin162, Htaime122, Htaime156, Hhucho119, Svalpin64, Svalpin73, Svalbus65, Svbogan70, Svelgyt71, Svconfl75, Svmalma81, Svconfl76, Svsveto67, Svleuco80, Svleuco79, Svnamay84, Svnama232, Svfonti77, Tthyma178, Tarctic87, Tarcti172, Tbrevi175, Tbrevi174, Tbaica170, Tgrubi169, Tgrubi167, Chuntsm12, Stleuci44, Clauret16, Clauret15, Ckiyi13nn, Cartedi5n, Cartedi6n, Cnigri184, Choyi9nnn, Czeneth30, Choyi10nn, Cautumna4, Cpollan24, Cautum143, Cmuksu131, Cpidsch17, Cclupeaf7, Ctugun28n, Cussu339n, Cclupeaf8, Cmigra252, Cpeled139, Calbul135, Calbula1n, Csardin25, Csardin26, Cnasus20n, Cnasus19n, Prcoult34, Prcoul186, Prcylin36, Prcylin35, Prwilli41, Prspilo39, Prspilo40, Prgemmi37, Prgemmi38, Prabyss32, OClarki48, OApach107, OGilae259, OMykis112, OChrys110, OMykis223, OMasou100, ORhodu103, OKisut98n, OTshaw280, OKeta95nn, OGorbu194, ONerka102, Smsalar52}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 3:
+	{Smsalar51, Smobtus86, Svfont261, OMykis49n, Tthyma177, Acohri118, Prwilli42, Svmalma82, Svalpin63, OKeta96nn, OGorbu94n, OClarki47, OMasou99n, ONerka101, OKisut272, OTshaw106, Clavar221, Paperry46, Blenok161, Blenok158, Bsavin164, Bsavin162, Htaime122, Htaime156, Hhucho119, Svalpin64, Svalpin73, Svalbus65, Svbogan70, Svelgyt71, Svconfl75, Svmalma81, Svconfl76, Svsveto67, Svleuco80, Svleuco79, Svnamay84, Svnama232, Svfonti77, Tthyma178, Tarctic87, Tarcti172, Tbrevi175, Tbrevi174, Tbaica170, Tgrubi169, Tgrubi167, Chuntsm12, Stleuci44, Clauret16, Clauret15, Ckiyi13nn, Cartedi5n, Cartedi6n, Cnigri184, Choyi9nnn, Czeneth30, Choyi10nn, Cautumna4, Cpollan24, Cautum143, Cmuksu131, Cpidsch17, Cclupeaf7, Ctugun28n, Cussu339n, Cclupeaf8, Cmigra252, Cpeled139, Calbul135, Calbula1n, Csardin25, Csardin26, Cnasus20n, Cnasus19n, Prcoult34, Prcoul186, Prcylin36, Prcylin35, Prwilli41, Prspilo39, Prspilo40, Prgemmi37, Prgemmi38, Prabyss32, OClarki48, OApach107, OGilae259, OMykis112, OChrys110, OMykis223, OMasou100, ORhodu103, OKisut98n, OTshaw280, OKeta95nn, OGorbu194, ONerka102, Smsalar52, Acohri117}
+ASTRAL finished in 3.489 secs
